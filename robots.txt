@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://royalh2o.com/sitemap.xml
+
